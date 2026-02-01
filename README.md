@@ -1,0 +1,1 @@
+# python-to-check-whether-the-number-entered-by-user-is-even-or-odd.
